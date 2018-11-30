@@ -1,3 +1,5 @@
 module.exports = {
-    baseUrl: '/dasos/'
+    baseUrl: process.env.NODE_ENV === 'production'
+    ? '/dasos/'
+    : '/'
    } 
