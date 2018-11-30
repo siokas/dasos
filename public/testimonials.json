@@ -1,0 +1,23 @@
+[
+    {
+        "name": "John Doe",
+        "job": "Hiker Master",
+        "title": "I love this app!",
+        "message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed dignissim urna eu eros facilisis commodo. Pellentesque nec sem.",
+        "icon": "male-1.png"
+    },
+    {
+        "name": "Jane Doe",
+        "job": "Chess Master",
+        "title": "Made me happier",
+        "message": "Neque volutpat ac tincidunt vitae semper quis lectus. Eget gravida cum sociis natoque penatibus et. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+        "icon": "female-1.png"
+    },
+    {
+        "name": "Jack Sparrow",
+        "job": "Captain",
+        "title": "Oh! Its the best",
+        "message": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.",
+        "icon": "male-2.png"
+    }
+]
