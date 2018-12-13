@@ -6,14 +6,14 @@
       <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/></svg>
     </button>
     </div>
-    <div class="w-full block lg:flex items-center lg:w-auto" v-show="menu">
-        <a href="#" v-scroll-to="'#features'" class="block mt-4 lg:inline-block lg:mt-0 font-medium no-underline text-grey-lightest hover:text-main-green mr-4">
+    <div class="w-full lg:flex items-center lg:w-auto sm:block" v-bind:class="{'sm:hidden': menu}">
+        <a href="#" v-scroll-to="'#features'" class="block mt-4 lg:inline-block lg:mt-0 sm:text-right font-medium no-underline text-grey-lightest hover:text-main-green mr-4">
         features
       </a>
-        <a href="#" v-scroll-to="'#testimonials'" class="block mt-4 lg:inline-block lg:mt-0 font-medium no-underline text-grey-lightest hover:text-main-green mr-4">
+        <a href="#" v-scroll-to="'#testimonials'" class="block mt-4 lg:inline-block sm:text-right lg:mt-0 font-medium no-underline text-grey-lightest hover:text-main-green mr-4">
         testimonials
       </a>
-        <a href="#" v-scroll-to="'#contact'" class="block mt-4 lg:inline-block lg:mt-0 font-medium no-underline text-grey-lightest hover:text-main-green mr-4">
+        <a href="#" v-scroll-to="'#contact'" class="block mt-4 lg:inline-block sm:text-right lg:mt-0 font-medium no-underline text-grey-lightest hover:text-main-green mr-4">
         contact
       </a>
     </div>
@@ -29,7 +29,7 @@ export default {
   },
   data() {
     return {
-      menu: false
+      menu: true
     };
   },
   methods: {
