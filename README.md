@@ -1,7 +1,6 @@
 > in development
 
-![Alt text](https://raw.githubusercontent.com/siokas/dasos/master/src/assets/pine.svg)
-<img src="https://raw.githubusercontent.com/siokas/dasos/master/src/assets/pine.svg">
+<img src="https://github.com/siokas/dasos/blob/master/src/assets/pine.svg" style="height: 2px">
 
 # dasos - App Landing Page Template
 
