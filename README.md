@@ -1,6 +1,6 @@
 > in development
 
-<img src="https://github.com/siokas/dasos/blob/master/src/assets/pine.svg" style="height: 2px">
+<img src="https://github.com/siokas/dasos/blob/master/src/assets/pine.png" height="30px">
 
 # dasos - App Landing Page Template
 
