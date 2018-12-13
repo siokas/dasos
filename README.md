@@ -1,8 +1,6 @@
 > in development
 
-<img src="https://github.com/siokas/dasos/blob/master/src/assets/pine.png" height="30px">
-
-# dasos - App Landing Page Template
+# <img src="https://github.com/siokas/dasos/blob/master/src/assets/pine.png" height="30px"> dasos - App Landing Page Template
 
 App Landing Page Template built with <a href="https://github.com/vuejs/vue-cli">vue-cli</a> and <a href="https://github.com/tailwindcss/tailwindcss">tailwindcss</a>.
 
